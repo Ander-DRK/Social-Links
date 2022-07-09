@@ -22,7 +22,7 @@ body{
 
 .cabecalho-menu{
    display: flex;
-   gap: 64px;
+   gap: 50px;
 }
 .cabecalho-menu-item{
    font-family: 'Sarala', sans-serif;
