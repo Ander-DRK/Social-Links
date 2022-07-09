@@ -8,7 +8,7 @@
 }
 body{
    font-size: 100%;
-   background-image: linear-gradient(45deg,#151720, #00011b);
+   background-image: linear-gradient(90deg,#151720, #00011b);
    /*background-color:;background-image: linear-gradient(90deg, #2F2325 16.62%, #8E5D52 85.61%);background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);*/
 }
 .cabecalho{
@@ -143,6 +143,7 @@ body{
    color:#ffffff;
 }
 footer{
+   margin-top: 150px;
    display: flex;
    border-top: 0.4px solid #fff2e7;
    font-family: 'Righteous',cursive;
